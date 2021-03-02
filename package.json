@@ -1,0 +1,14 @@
+{
+  "name": "@tbsliver/generator-nodecg-webpack",
+  "version": "0.1.0",
+  "description": "Yeoman Generator for a NodeCG Graphic Bundle using Webpack",
+  "files": [
+    "generators"
+  ],
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "dependencies": {
+    "yeoman-generator": "^4.13.0"
+  }
+}
