@@ -11,5 +11,6 @@
   "dependencies": {
     "yeoman-generator": "^4.13.0"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "repository": "github:tbsliver/generator-nodecg-webpack"
 }
