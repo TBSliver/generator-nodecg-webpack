@@ -1,5 +1,7 @@
 # generator-nodecg-webpack
 
+![npm](https://img.shields.io/npm/v/@tbsliver/generator-nodecg-webpack) ![NPM](https://img.shields.io/npm/l/@tbsliver/generator-nodecg-webpack) [![GitHub issues](https://img.shields.io/github/issues/TBSliver/generator-nodecg-webpack)](https://github.com/TBSliver/generator-nodecg-webpack/issues)
+
 Yeoman generator for creating webpack based [NodeCG](https://nodecg.dev) bundles.
 
 This is a basic setup, so familiarisation with webpack would be recommended.
@@ -24,7 +26,7 @@ npm run start
 
 ## Support
 
-For technical issues with the generator, please open a new issue on this repository and I'l get back to you when I can.
+For technical issues with the generator, please open a new issue and I'l get back to you when I can.
 
 [![Discord](https://img.shields.io/discord/754749209722486814?label=NodeCG%20Discord&logo=discord)](https://discord.com/invite/GJ4r8a8)
 
